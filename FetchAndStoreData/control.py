@@ -3,13 +3,14 @@ from . import fetchDataFromAPI, arrangeData
 
 
 def controller():
+    pass
     # Call External APi
-    data = fetchDataFromAPI.fetchDatafromAPI()
+    # data = fetchDataFromAPI.fetchDatafromAPI()
 
-    print(data)
+    # print(data)
 
-    # Extract relevant reviews
-    data = arrangeData.arrangeData(data)
+    # # Extract relevant reviews
+    # data = arrangeData.arrangeData(data)
 
     # Connect to Database
 
