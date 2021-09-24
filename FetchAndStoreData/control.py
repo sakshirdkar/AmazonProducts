@@ -15,5 +15,6 @@ def controller():
     # Connect to Database
 
     # Store into Database
+    print(store())
 
     # Read from Database
